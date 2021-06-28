@@ -1,3 +1,2 @@
-# Html-Website
-Basic html website for beginners.
-Mnoj kark rahega!!!
+#Ritu Chetawani
+A one stop destination for all your queries related to weather in India
