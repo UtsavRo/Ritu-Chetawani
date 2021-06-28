@@ -1,2 +1,3 @@
-# Ritu-Chetawani
-A one stop weather App for IN
+# Html-Website
+Basic html website for beginners.
+Mnoj kark rahega!!!
